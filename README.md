@@ -127,11 +127,15 @@ With mockups as a requirement, the team began creating visuals and measures as n
 
 ## **Dashboard Views**
 
+- **Home View**
+
 ![Home View](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Home.gif)
 
 Contains all view buttons; users navigate by clicking specific buttons to access different views.
 
-![Info](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resource/INFO.gif)
+- **Info & Support View**
+  
+![Info](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/INFO.gif)
 
 - **Finance View**
 - **Sales View**
