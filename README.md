@@ -120,7 +120,6 @@ The **MySQL database** was imported into Power BI using database credentials.
 Data modeling is fundamental for report performance. Poor data modeling affects report performance, and following good practices is essential. We used **Snowflake data modeling** in this project. [Refer to good practices here](https://addendanalytics.com/blog/data-modelling-best-practices/)
 
 <img src="https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
----
 
 ## **Dashboard Design**
 
