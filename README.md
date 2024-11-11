@@ -138,6 +138,9 @@ Contains all view buttons; users navigate by clicking specific buttons to access
 ![Info](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/INFO.gif)
 
 - **Finance View**
+
+![Info](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Finance.gif)
+
 - **Sales View**
 - **Marketing View**
 - **Supply Chain View**
