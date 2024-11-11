@@ -142,11 +142,21 @@ Contains all view buttons; users navigate by clicking specific buttons to access
 ![Info](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Finance.gif)
 
 - **Sales View**
+
+![Sales](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Sales.gif)
+
 - **Marketing View**
+
+![Marketing](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Marketing.gif)
+
 - **Supply Chain View**
+
+![Supplychain](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Supplychain.gif)
+
 - **Executive View**
-- **Products**
-- **Support**
+
+![Executive](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Executive.gif)
+
 
 ### **Overall Report**  
 Full report [here](#)
