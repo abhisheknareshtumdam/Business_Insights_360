@@ -125,10 +125,14 @@ Data modeling is fundamental for report performance. Poor data modeling affects 
 
 With mockups as a requirement, the team began creating visuals and measures as needed.
 
-### **Dashboard Views**
+## **Dashboard Views**
 
-- **Home View**: All view buttons; users navigate by clicking
-- **Info**
+![Home View](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resources/Home.gif)
+
+Contains all view buttons; users navigate by clicking specific buttons to access different views.
+
+![Info](https://github.com/abhisheknareshtumdam/Business_Insights_360/blob/main/Resource/INFO.gif)
+
 - **Finance View**
 - **Sales View**
 - **Marketing View**
